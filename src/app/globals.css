@@ -134,7 +134,7 @@ footer p {
 .shoes-card {
     width: 100%;
     background-color:hsl(69, 100%, 48%);
-    padding: 20px;
+    padding: 5px;
     margin-bottom: 30px;
     border-radius: 20px;
     box-shadow: 0 0 10px rgba(0,0,0, 0.1);
@@ -149,7 +149,7 @@ footer p {
 
 .shoes-card.name {
     color: #000;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: bold;
     margin-bottom: 10px;
     margin-top: 10px;
